@@ -1,6 +1,6 @@
 # Movie Data Mashup & NLP Joke Generator
 
-A Python project that combines movie data analysis with entertainment generation by fetching movie information and creating humorous mashups with dad jokes.
+A Python project that combines movie data analysis with entertainment generation by fetching movie information and creating humorous mashups with jokes.
 
 # Project Overview
 This project demonstrates data science fundamentals by analyzing movie plot text, processing API data, and generating entertaining content. Given a movie title, the system:
